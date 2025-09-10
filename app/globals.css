@@ -3,8 +3,9 @@
 @tailwind utilities;
 
 body {
-  @apply bg-black text-white;
-}
+    background: #0b1020;
+  color: #ffffff;
+  
 
 
 /* Slider styles */
